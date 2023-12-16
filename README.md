@@ -35,4 +35,4 @@ python main.py -n YuanJie -idn Pilatus -bir 20210102 -cc ._ -len 8 -add woaini 1
 Namespace(name='YuanJie', idName='Pilatus', birth='20210102', jobNum=None, phoneNum=None, conChar='._', length=8, addition=['woaini', '1314', '520', '1314520', 'shabi', 'djb', 'dajiba', 'shuaige'])
 ```
 
-![previem](L:\PYcharm\argparseFIRSTTEST\previem.png)
+![preview](.\preview.png)
